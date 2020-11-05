@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Animacja_postaci", "4_Animacja_postaci.csproj", "{77E1E9A4-1AE5-29E8-CACC-90368BA21CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Animacja_postaci.Editor", "4_Animacja_postaci.Editor.csproj", "{BD752C29-4D9C-DD48-FC6E-F8696B94CAF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E1E9A4-1AE5-29E8-CACC-90368BA21CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E1E9A4-1AE5-29E8-CACC-90368BA21CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E1E9A4-1AE5-29E8-CACC-90368BA21CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E1E9A4-1AE5-29E8-CACC-90368BA21CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD752C29-4D9C-DD48-FC6E-F8696B94CAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD752C29-4D9C-DD48-FC6E-F8696B94CAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD752C29-4D9C-DD48-FC6E-F8696B94CAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD752C29-4D9C-DD48-FC6E-F8696B94CAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

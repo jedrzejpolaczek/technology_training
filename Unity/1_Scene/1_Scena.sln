@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Scena.Plugins", "1_Scena.Plugins.csproj", "{BC6DF2CD-BFF0-E2B7-1F70-6EC80B53D516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Scena.Editor.Plugins", "1_Scena.Editor.Plugins.csproj", "{CD20492B-4C0B-E11B-B7B3-E9F1B1291C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6DF2CD-BFF0-E2B7-1F70-6EC80B53D516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6DF2CD-BFF0-E2B7-1F70-6EC80B53D516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6DF2CD-BFF0-E2B7-1F70-6EC80B53D516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6DF2CD-BFF0-E2B7-1F70-6EC80B53D516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD20492B-4C0B-E11B-B7B3-E9F1B1291C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD20492B-4C0B-E11B-B7B3-E9F1B1291C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD20492B-4C0B-E11B-B7B3-E9F1B1291C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD20492B-4C0B-E11B-B7B3-E9F1B1291C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

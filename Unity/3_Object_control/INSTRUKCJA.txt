@@ -1,0 +1,4 @@
+CharacterController - https://www.youtube.com/watch?v=_QajrabyTJc
+Rigidbody - https://www.youtube.com/watch?v=1o-Gawy3D48&t=3s
+Switching cammeras - https://www.youtube.com/watch?v=wWTOuggRvgc
+

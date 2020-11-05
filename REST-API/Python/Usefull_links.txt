@@ -1,0 +1,14 @@
+Beginner Cource - https://umlaut1.udemy.com/course/rest-api-flask-and-python/learn/lecture/9229518
+Advance Cource -
+Code here are product of going through above courses.
+
+Flask-JWT - https://blog.tecladocode.com/learn-python-advanced-configuration-of-flask-jwt/
+REST API Architecture - https://www.geeksforgeeks.org/rest-api-architectural-constraints/
+ORM Python - https://www.fullstackpython.com/object-relational-mappers-orms.html
+Python: Interact with APIs - https://blog.tecladocode.com/how-to-interact-with-apis-using-python/
+Python: auth - https://pypi.org/project/auth/
+uWSGI - https://uwsgi-docs.readthedocs.io/en/latest/
+REST API with Flask and Python - https://books.tecladocode.com/rest-apis-with-flask-and-python/
+How HTTP work - https://robertheaton.com/2014/03/27/how-does-https-actually-work/
+Concept of SSL - https://www.digicert.com/ssl/
+How SSL handshake work - https://www.websecurity.digicert.com/security-topics/how-does-ssl-handshake-work

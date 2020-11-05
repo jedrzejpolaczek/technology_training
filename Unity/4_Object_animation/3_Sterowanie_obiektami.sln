@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Sterowanie_obiektami.Plugins", "3_Sterowanie_obiektami.Plugins.csproj", "{AF31DA40-B695-56E1-50A4-E66AD860B9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Sterowanie_obiektami", "3_Sterowanie_obiektami.csproj", "{F26BA6BC-4780-68C3-D396-AAF07EBFC5EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Sterowanie_obiektami.Editor.Plugins", "3_Sterowanie_obiektami.Editor.Plugins.csproj", "{C7DC87EC-1ED4-893D-21CB-CFAE23135463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF31DA40-B695-56E1-50A4-E66AD860B9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF31DA40-B695-56E1-50A4-E66AD860B9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF31DA40-B695-56E1-50A4-E66AD860B9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF31DA40-B695-56E1-50A4-E66AD860B9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26BA6BC-4780-68C3-D396-AAF07EBFC5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26BA6BC-4780-68C3-D396-AAF07EBFC5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26BA6BC-4780-68C3-D396-AAF07EBFC5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26BA6BC-4780-68C3-D396-AAF07EBFC5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DC87EC-1ED4-893D-21CB-CFAE23135463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DC87EC-1ED4-893D-21CB-CFAE23135463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DC87EC-1ED4-893D-21CB-CFAE23135463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DC87EC-1ED4-893D-21CB-CFAE23135463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
